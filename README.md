@@ -26,3 +26,10 @@ console.log(decoded); // 'Caesar cipher lib test!'
 const rot13ed = rot13('Caesar cipher lib test!');
 console.log(rot13ed); // 'Pnrfne pvcure yvo grkg!'
 ```
+
+## Sponsor
+
+Buy me a coffee~
+
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D5ANK41%26type%3Dpledges&style=flat)](https://patreon.com/5ANK41)
+[![爱发电](https://afdian.moeci.com/11/badge.svg)](https://afdian.net/a/hoshino_suzumi)
