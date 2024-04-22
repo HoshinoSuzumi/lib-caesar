@@ -1,10 +1,18 @@
 {
   "name": "@uniiem/caesar",
   "type": "module",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Caesar cipher implementation in TypeScript.",
-  "keywords": [],
+  "keywords": [
+    "caesar-cipher",
+    "encryption",
+    "decryption"
+  ],
   "author": "HoshinoSuzumi <master@uniiem.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoshinoSuzumi/lib-caesar"
+  },
   "license": "MIT",
   "packageManager": "bun@1.1.4",
   "main": "dist/index.umd.cjs",
